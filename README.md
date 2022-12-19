@@ -17,6 +17,7 @@
 
   ## 💰 You can help me by Donating
   [![DonationAlerts](https://img.shields.io/badge/-DonationAlerts-orange)](https://www.donationalerts.com/r/miffle_hypocrite) 
+  <br>[![Ethereum](https://img.shields.io/badge/-Ethereum-blue)]() - 0xd3f9b9dC0FDb48D6e43d2314E02A50c77ecf4167
+  <br>[![Ethereum](https://img.shields.io/badge/-TON-blue)]() - EQCzOCfS4mbu_yi1_qJe6kiTXFgQwUB3PtADb_sPHQiDEuiN
 
-  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

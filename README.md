@@ -3,6 +3,15 @@ Middle AQA Engineer at Sberbank. <br>
 Writing API tests in Java using JUnit and Rest Assured.<br>
 Building a side project — a voice call app (Java + Spring, React TS, WebRTC).<br>
 Graduated with a Bachelor’s degree in 2025.
+###
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Miffle/Miffle/refs/heads/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Miffle/Miffle/refs/heads/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Miffle/Miffle/refs/heads/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/roman-mezhuev) 

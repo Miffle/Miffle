@@ -1,5 +1,5 @@
 # About Me:
-Middle AQA Engineer at Sberbank. <br>
+Senior AQA Engineer at Sberbank. <br>
 Writing API tests in Java using JUnit and Rest Assured.<br>
 Building a side project — a voice call app (Java + Spring, React TS, WebRTC).<br>
 Graduated with a Bachelor’s degree in 2025.
